@@ -1,0 +1,45 @@
+.img1 {
+    padding-left: 16px;
+    margin-top: 10px;
+    width: 52px;
+    height: 12px;
+    gap: 8px;
+    /* border: 1px solid red; */
+}
+
+.search {
+    margin-top: 10px;
+    /* flex-direction: row;
+    display: flex; */
+    /* border: 1px solid red; */
+}
+
+.search .imag {
+    padding-left: 40rem;
+}
+
+.search .faasearch {
+    /* padding-left: 20rem; */
+    margin-left: 15rem;
+}
+
+
+.sidenav {
+    margin-top: 46px;
+}
+
+.sidenav a {
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    display: block;
+    /* //styleName: Avenir/14px: Book; */
+font-family: Avenir;
+font-size: 14px;
+font-weight: 400;
+line-height: 19.12px;
+text-align: left;
+color: #091E42;
+width: 15px;
+
+/* margin-top: 46px; */
+}
